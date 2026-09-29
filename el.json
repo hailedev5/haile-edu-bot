@@ -1,0 +1,21 @@
+
+{
+  "appName": "Haile Edu Bot",
+  "appSlogan": "ΕΚΠΑΙΔΕΥΤΙΚΟ BOT ✨",
+  "haile": "HAILE",
+  "getStarted": "Ξεκινήστε",
+  "profile": "Προφίλ",
+  "settings": "Ρυθμίσεις",
+  "recentQuestions": "Πρόσφατες ερωτήσεις",
+  "popularSubjects": "Δημοφιλή θέματα",
+  "mathematics": "Μαθηματικά",
+  "history": "Ιστορία",
+  "literature": "Λογοτεχνία",
+  "coding": "Κωδικοποίηση",
+  "science": "Επιστήμη",
+  "studyTools": "Εργαλεία μελέτης",
+  "practiceQuizzes": "Κουίζ πρακτικής",
+  "listening": "Ακούγοντας...",
+  "stop": "Διακοπή",
+  "microphonePermissionError": "Απαιτείται άδεια μικροφώνου για φωνητική είσοδο. Παρακαλώ επιτρέψτε την πρόσβαση στο μικρόφωνο στις ρυθμίσεις του προγράμματος περιήγησης."
+}
